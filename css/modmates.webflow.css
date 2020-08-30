@@ -412,7 +412,7 @@ a {
 .feature-content {
   width: 50vw;
   max-width: 450px;
-  padding-right: 4vw;
+  padding-right: 0vw;
   padding-left: 4vw;
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
@@ -1402,6 +1402,30 @@ a {
 
 .paragraph-5 {
   color: #f0f0f0;
+}
+
+.video {
+  position: absolute;
+  display: block;
+}
+
+.container {
+  position: relative;
+}
+
+.background-video {
+  position: absolute;
+  z-index: auto;
+  overflow: hidden;
+}
+
+.background-video-2 {
+  position: absolute;
+  background-image: none;
+}
+
+.image-6 {
+  display: none;
 }
 
 @media screen and (max-width: 991px) {
