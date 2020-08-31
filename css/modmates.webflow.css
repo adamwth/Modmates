@@ -1855,7 +1855,7 @@ a {
     margin-left: 0px;
   }
   .button.form-button {
-    background-color: #a600ff;
+    background-color: #fbd04e;
   }
   .wrap {
     position: static;
@@ -1961,7 +1961,7 @@ a {
   }
   .heading-3 {
     display: inline-block;
-    background-image: linear-gradient(80deg, #1fd1f9, #b621fe 100%, #fff 0, #b621fe);
+    background-image: none;
     font-size: 42px;
     line-height: 56px;
   }
